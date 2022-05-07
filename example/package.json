@@ -7,8 +7,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "jcore-react-native": "1.9.5",
-    "jpush-react-native": "2.9.0",
+    "jcore-react-native": "PanRu/jcore-react-native_google_play",
+    "jpush-react-native": "PanRu/jpush-react-native_google_play",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "update": "^0.7.4"
